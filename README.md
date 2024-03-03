@@ -50,4 +50,4 @@ Each project directory contains Jupyter notebooks demonstrating the workflow fro
 
 ## Conclusion
 
-These projects demonstrate a comprehensive approach to tackling real-world data science problems from preprocessing to model evaluation. Through these projects, we have showcased the ability to derive insights from data and predict outcomes using machine learning techniques.
+These projects demonstrate a comprehensive approach to tackling real-world data science problems from preprocessing to model evaluation. Through these projects, I have showcased the ability to derive insights from data and predict outcomes using machine learning techniques.
