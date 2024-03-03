@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data Science & Machine Learning Projects
 
 This repository contains three key projects showcasing skills in data cleaning, preprocessing, exploratory data analysis, visualization, machine learning modeling, and evaluation. The projects are as follows:
 
